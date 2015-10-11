@@ -1,0 +1,14 @@
+{
+  "name": "purescript-test",
+  "main": "./lib/main.js",
+  "version": "0.0.0",
+  "description": "Example of an Atom package developed in Purescript",
+  "activationEvents": ["pst:dev"],
+  "repository": "https://github.com/laurencer/example-purescript-atom-package",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}

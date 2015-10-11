@@ -1,0 +1,6 @@
+/bower_components/
+/node_modules/
+/output/
+/.psci*
+/lib/main.js
+/src/.webpack.js
